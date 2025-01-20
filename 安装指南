@@ -1,0 +1,29 @@
+
+jeecgboot项目地址：https://github.com/jeecgboot/JeecgBoot
+
+
+前端安装
+
+node官网：https://nodejs.org/zh-cn
+pnpm安装：通过命令
+
+目标：安装依赖、前端项目启动
+
+
+后端安装：
+jdk17:   https://www.oracle.com/cn/java/technologies/downloads/#java17
+maven：  https://maven.apache.org/download.cgi
+mysql8： https://dev.mysql.com/downloads/windows/installer
+redis:   https://github.com/MicrosoftArchive/redis/releases
+
+
+
+开发工具
+navicat: https://www.navicat.com.cn/download/navicat-premium
+idea:  https://www.jetbrains.com/zh-cn/idea/
+webstorm: https://www.jetbrains.com/zh-cn/webstorm/download/#section=windows
+
+
+辅助工具：
+git安装
+cmder安装
